@@ -1,0 +1,22 @@
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.exe.config
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.exe
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.pdb
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csproj.AssemblyReference.cache
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.frmLanchonete.resources
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csproj.GenerateResource.cache
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.exe
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.pdb
+C:\Users\Alexander Erbiste\OneDrive\Desktop\pedido_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.Form1.resources
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.exe.config
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.exe
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.pdb
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csproj.AssemblyReference.cache
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.Form1.resources
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.frmLanchonete.resources
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.Properties.Resources.resources
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csproj.GenerateResource.cache
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.exe
+C:\Users\Alexander Erbiste\OneDrive\Desktop\Lanchonete MR_Larica\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.pdb
